@@ -32,5 +32,5 @@ jobs:
     - name: List files
       run: ls -ltra
 
-    - name: Show content file
+    - name: Display content of the text file
       run: cat ./artifacts/hello.txt
